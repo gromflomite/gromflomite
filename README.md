@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning Java.
+- 👯 I’m looking for job. Interested? -> 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/rauldeveloper/)
+
 <!--
 **gromflomite/gromflomite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
