@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Java.
+- 🌱 I’m currently learning Java - Jakarta EE.
+- 🤔 Interested in JavaScript.
 - 👯 I’m looking for job. Interested? -> 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/rauldeveloper/)
 
 <!--
