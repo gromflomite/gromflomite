@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome!! 👋
 
 - 🌱 I’m currently learning Java - Jakarta EE.
 - 🤔 Interested in JavaScript.
