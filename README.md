@@ -1,7 +1,8 @@
 ### Welcome!! 👋
 
-- 🌱 I’m currently learning Java - Jakarta EE.
-- 🤔 Interested in JavaScript.
+- :bullettrain_front: Currently learning Java - Jakarta EE.
+- ⚡ Starting with Spring.
+- :beginner: Interested in JavaScript.
 - 👯 I’m looking for job. Interested? -> 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/rauldeveloper/)
 
 <!--
