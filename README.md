@@ -3,7 +3,7 @@
 - :bullettrain_front: Currently learning Java - Jakarta EE.
 - ⚡ Starting with Spring.
 - :beginner: Interested in JavaScript.
-- 👯 I’m looking for job. Interested? -> 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/rauldeveloper/)
+- :dart: I’m looking for job. Interested? -> 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/rauldeveloper/)
 
 <!--
 **gromflomite/gromflomite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
