@@ -5,7 +5,7 @@
 
 - PHP
 - Symfony
-- Keep going Java - Jakarta EE
+- Keep going on Java - Jakarta EE
 
 :ledger: Having a look:
  
