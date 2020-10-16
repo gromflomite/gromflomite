@@ -10,7 +10,7 @@
  
  - Spring framework
 
-:closed_book: (Not) Finding time for:
+:closed_book: (not) Finding time for:
 
  - JavaScript
  
